@@ -1,0 +1,10 @@
+Outsider,Stephen King,Thriller,0003
+Rok 1984,George Orwell,Antyutopia,0004
+Nowy wspanialy swiat,Aldous Huxley,Antyutopia,0008
+Koderzy,Clive Thompson,Clive Thompson,0000
+Steve Jobs,Walter Isacson,Biografia,9809
+Homo deus,Yuval Noah Harari,Reportaz,4567
+Homo sapiens,Yuval Noah Harari,Yuval Noah Harari,0002
+Slepnac od swiatel,Jakub Zulczyk,Thriller,1000
+Informacja zwrotna,Jakub Zulczyk,Thriller,4545
+Lsnienie,Stephen King,Thriller,0001
